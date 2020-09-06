@@ -1,5 +1,6 @@
 ## taylor.rest
-A Taylor Swift quotes API, build using Deno.
+A Taylor Swift quotes API, build using Deno.  
+Big thanks to [Dwikboss](https://twitter.com/dwikboss) for providing the reaction images!
 
 #### How to use
 
