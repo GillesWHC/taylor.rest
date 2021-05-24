@@ -1,5 +1,8 @@
 # This project is no longer active!
-I decided to no longer host the API. Feel free to host it yourself!
+I decided to no longer host the API. Feel free to host it yourself!\
+The API was hosted using [fly.io](https://fly.io).\
+The frontend was hosted using [Firebase Hosting](https://firebase.google.com/).\
+You can find the frontend source code [here](https://github.com/gillescoolen/taylor.rest.app).
 
 ## taylor.rest
 A Taylor Swift quotes API, build using Deno.  
