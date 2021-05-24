@@ -1,3 +1,6 @@
+# This project is no longer active!
+I decided to no longer host the API. Feel free to host it yourself!
+
 ## taylor.rest
 A Taylor Swift quotes API, build using Deno.  
 
